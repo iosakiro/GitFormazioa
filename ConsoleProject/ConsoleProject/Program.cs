@@ -10,7 +10,7 @@ namespace ConsoleProject
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
+            for (int i = 10; i > 0; i--)
             {
                 System.Console.WriteLine("beñat y Ibai"+i);
                 System.Threading.Thread.Sleep(1000);
