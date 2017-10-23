@@ -13,7 +13,6 @@ namespace ConsoleProject
             for (int i = 10; i > 0; i--)
             {
                 System.Console.WriteLine("beñat y Ibai"+i);
-                System.Threading.Thread.Sleep(1000);
             }
             System.Console.WriteLine("Pulse enter para finalizar");
             System.Console.ReadLine();
