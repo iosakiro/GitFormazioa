@@ -12,7 +12,7 @@ namespace ConsoleProject
         {
             for (int i = 0; i < 10; i++)
             {
-                System.Console.WriteLine(i);
+                System.Console.WriteLine("beñat"+i);
                 System.Threading.Thread.Sleep(1000);
             }
             System.Console.WriteLine("Pulse enter para finalizar");
