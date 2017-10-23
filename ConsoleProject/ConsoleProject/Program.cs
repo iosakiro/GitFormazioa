@@ -12,7 +12,7 @@ namespace ConsoleProject
         {
             for (int i = 10; i > 0; i--)
             {
-                System.Console.WriteLine("Beñat y Ibai"+i);
+                System.Console.WriteLine("Bñat y Ibai"+i);
             }
             System.Console.WriteLine("Pulse cualquier botón para finalizar");
             System.Console.ReadLine();
