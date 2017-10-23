@@ -15,7 +15,7 @@ namespace ConsoleProject
                 System.Console.WriteLine("Ibai"+i);
                 System.Threading.Thread.Sleep(1000);
             }
-            System.Console.WriteLine("Pulse enter para finalizar");
+            System.Console.WriteLine("Pulse cualquier botón para finalizar");
             System.Console.ReadLine();
         }
     }
